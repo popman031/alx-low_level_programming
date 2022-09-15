@@ -1,4 +1,4 @@
-#includde "main.h"
+#include "main.h"
 /**
  * add - Adds two integers.
  * @num1: The first integer to be added.
